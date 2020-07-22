@@ -1,0 +1,15 @@
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\obj\Debug\DoXeR-1.0.csprojAssemblyReference.cache
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\obj\Debug\DoXeR-1.0.csproj.GenerateResource.cache
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\obj\Debug\DoXeR-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\obj\Debug\DoXeR_1._0.Credits.resources
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\bin\Debug\Siticone.UI.dll
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\obj\Debug\DoXeR_1._0.Custom.resources
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\obj\Debug\DoXeR_1._0.Dox.resources
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\obj\Debug\DoXeR_1._0.Main.resources
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\obj\Debug\DoXeR-1.0.csproj.CopyComplete
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\bin\Debug\NOMAT.exe.config
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\bin\Debug\NOMAT.exe
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\bin\Debug\NOMAT.pdb
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\obj\Debug\NOMAT.Properties.Resources.resources
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\obj\Debug\NOMAT.exe
+C:\Users\Neutr\source\repos\DoXeR-1.0\DoXeR-1.0\obj\Debug\NOMAT.pdb
