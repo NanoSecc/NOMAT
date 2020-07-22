@@ -1,3 +1,10 @@
+### NOMAT
+<p><a href="https://github.com/NanoSecc/NOMAT/"><img src="https://img.shields.io/badge/NOMAT-1.0-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/NOMAT-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
+<a href="https://github.com/NanoSecc/NOMAT/"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
+<a href="https://github.com/NanoSecc/NOMAT/"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
+<img src="https://cdn.discordapp.com/attachments/734962728208171008/735422548665171979/unknown.png" data-canonical-src="https://cdn.discordapp.com/attachments/734962728208171008/735422548665171979/unknown.png" style="max-width:100%;">
+
+
 ### How Build
 
 ```bash
@@ -13,4 +20,8 @@
 Doxing is a form of "hacking" But Not Really. 
 U Gather a Persons info And then Post it Somewhere Example : James,same,54,123 main lane,911
 ```
-
+### For The Retards THat Dont Understand 
+```bash 
+for the retards that don't know how to compile something 
+just go to the debug folder and run the exe
+```
